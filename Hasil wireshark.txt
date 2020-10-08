@@ -1,0 +1,21 @@
+*Trougthput :
+Jumlah Bytes : Time spain = 621783 Bytes : 21.477 s
+			  = 28951 Bytes/s
+	                  = 28,951 KB/s
+		          = 28,951 x 8
+                          = 231 kb/s
+
+*Packet loss :(paket yang dikirim-paket diterima)/paket dikirim)x100)
+	    =(895-892)/)x100
+	    =    (3/895)x100
+            = 0,335
+
+*Delay : 
+ Total Delay : 21,182322 s
+ Rata-rata delay :0.023746998 s
+
+*Jitter :
+ Total Jitter :16,127128 s
+ Rata-rata Jitter :0,1808 s
+
+
